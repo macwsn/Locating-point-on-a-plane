@@ -24,10 +24,10 @@ Refer to the `/requirements/enviroment.txt` file.
 ## Example
 
 **GIF – Visualization of trapezoidal map creation**  
-`/gifs/pr2.gif`
+<img src="https://github.com/macwsn/Locating-point-on-a-plane/blob/main/gifs/pr2.gif" width="700" height="700"> 
 
-**Algorithm Output**  
-`/gifs/wiz4.png`
+<h5>Result </h5>
+<img src="https://github.com/macwsn/Locating-point-on-a-plane/blob/main/gifs/wiz4.png" width="700" height="700">
 
 ## Authors
 
